@@ -41,7 +41,7 @@ public class InfoActivity extends AppCompatActivity {
         mapIntent.setPackage("com.google.android.apps.maps");
         startActivity(mapIntent);
         }
-    }
+
     // ***
     // TODO - Task 3 - Launch the Phone Activity
     // ***
